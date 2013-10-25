@@ -1,8 +1,20 @@
+#time-info, #calc-time-info {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 14px;
+}
+#time-info span, #calc-time-info span
+{
+    color: gray;
+}
 #clock {
-	max-width: 900px;
-	width: 100%;
-	height: 100%;
-	margin: auto;
-	position: absolute;
-	top: 0; left: 0; bottom: 0; right: 0;
+    max-width: 900px;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
 }
